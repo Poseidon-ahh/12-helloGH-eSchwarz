@@ -28,7 +28,7 @@ Ziel ist es, ein grundlegendes Verständnis für den Standard Git Workflow zu en
 Dieses Projekt dient nur zu Lernzwecken.
 
 
-
+Äunderung auf GIT ONLINE 
 
 
 Änderung auf Lokaler KOPIEE 
